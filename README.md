@@ -30,5 +30,5 @@ cd chat-room-application
 ### Key Changes:
 
 - **Credits Section**: Updated to acknowledge the assistance from the GeeksforGeeks tutorial, including a direct link to the tutorial for reference.
-
+https://www.geeksforgeeks.org/chat-website-using-mern-stack/
 Feel free to adjust the content further based on any additional information or preferences you have.
